@@ -1,0 +1,2 @@
+# .github
+Organització Llegiu-ne
